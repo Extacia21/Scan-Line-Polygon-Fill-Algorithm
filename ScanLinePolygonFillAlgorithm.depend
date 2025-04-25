@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1745484999 source:c:\dev\scanlinepolygonfillalgorithm\main.c
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
